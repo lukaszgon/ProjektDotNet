@@ -21,3 +21,4 @@ Skorowidz:
 			kolekcje używane w klasach częściowych Page2, Page3, Page4
 			do przechowywania wybranych konfiguracji pojazdów, 
 			które następnie są zapisywane do wcześniej stworzonego pliku
+Źródło grafik: http://www.mercedes-benz.pl/
