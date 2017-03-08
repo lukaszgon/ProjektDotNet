@@ -1,6 +1,5 @@
 # ProjektDotNet
-Repozytorium przechowujące projekt zaliczeniowy dla kursu Akademia C#
-Łukasz Goncerzewicz, lukaszgon@hotmail.com
+Repozytorium przechowujące projekt zaliczeniowy dla kursu Akademia C#, lukaszgon@hotmail.com
 Projekt w WPF
 
 Skorowidz:
